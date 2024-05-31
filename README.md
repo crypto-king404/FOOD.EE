@@ -11,12 +11,16 @@ Data Storage: Utilizes CSV/JSON files for storing and managing restaurant data.
 Technologies Used:
 
 Python: Core programming language.
+
 File Manipulation: CSV/JSON for data storage and retrieval.
 
+
 Project Highlights:
+
 --> Managed data for over 100 restaurants.
 --> Achieved an average data retrieval time of less than 1 second.
 --> Handled datasets up to 10MB efficiently.
 --> Received an A grade and positive feedback for functionality and usability.
+
 
 Feel free to explore the code and contribute! Your feedback and suggestions are welcome
